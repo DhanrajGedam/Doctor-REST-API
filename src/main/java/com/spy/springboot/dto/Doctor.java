@@ -18,5 +18,5 @@ public class Doctor {
 	private Long number;
 	private String email;
 	private double fees;
-	
+
 }
